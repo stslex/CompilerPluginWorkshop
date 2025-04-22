@@ -1,6 +1,6 @@
 [versions]
 androidDesugarJdkLibs = "2.1.4"
-kotlin = "2.0.21"
+kotlin = "1.9.24"
 androidGradlePlugin = "8.8.0"
 
 minSdk = "28"
